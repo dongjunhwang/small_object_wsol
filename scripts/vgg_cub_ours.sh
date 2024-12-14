@@ -1,0 +1,24 @@
+python main.py \
+--data_root dataset/ \
+--architecture vgg16 \
+--wsol_method crop \
+--dataset_name CUB \
+--crop_start_epoch 25 \
+--attention_cam TRUE \
+--epochs 50 \
+--lr_decay_frequency 15 \
+--batch_size 32 \
+--large_feature_map TRUE \
+--proxy_training_set FALSE \
+--experiment_name vgg_cub_ours \
+--eval_checkpoint_type last \
+--lr 0.0002909729273 \
+--weight_decay 5.00E-04 \
+--loss_pos 0.70 \
+--loss_neg 0.50 \
+--loss_ratio 0.40 \
+--crop_threshold 0.60 \
+--crop_ratio 0
+#--checkpoint_path ckpt/.pth.tar \
+#--eval_on_val_and_test False \
+#--eval_size_ratio True \

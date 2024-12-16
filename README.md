@@ -45,7 +45,7 @@ Run the following command to download the original CUB dataset and extract the i
 sh dataset/prepare_cub.sh
 ```
 
-Note: you can also download the CUBV2 dataset from [here](https://drive.google.com/open?id=1U6cwKHS65wayT9FFvoLIA8cn1k0Ot2M1). Put the downloaded file on the `dataset/CUBV2.tar` directory and then run the above script.
+Note: you can also download the CUBV2 dataset from [here](https://drive.google.com/open?id=1U6cwKHS65wayT9FFvoLIA8cn1k0Ot2M1) and CUBSmall dataset from [here](https://github.com/user-attachments/files/18142910/CUBSmall.zip). Put the downloaded file on the `dataset/CUBV2.tar` directory and then run the above script.
 
 **OpenImages**<br>
 To download and extract files, run the following command on `root` directory

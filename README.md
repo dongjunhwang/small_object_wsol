@@ -1,4 +1,4 @@
-## Small Object Matters in Weakly Supervised Object Localization
+## Small Object Matters in Weakly Supervised Object Localization (Neurocomputing)
 
 <img width="100%" alt="architecture" src="assets/architecture.jpg">
 
